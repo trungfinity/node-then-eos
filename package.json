@@ -1,0 +1,22 @@
+{
+  "name": "then-eos",
+  "version": "1.0.0",
+  "description": "Promise-based end-of-stream.",
+  "keywords": [
+    "end",
+    "eos",
+    "promise",
+    "stream"
+  ],
+  "license": "MIT",
+  "author": "Trung Nguyen <i@meo.guru> (http://meo.guru)",
+  "files": [
+    "index.js"
+  ],
+  "repository": "meoguru/node-then-eos",
+  "dependencies": {
+    "end-of-stream": "^1.1.0",
+    "stream-consume": "^0.1.0",
+    "thenify": "^3.1.0"
+  }
+}
